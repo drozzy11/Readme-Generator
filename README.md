@@ -42,4 +42,4 @@ Clone this repo and navigate into the Develop folder within your terminal. Once 
 
 ## Git Hub
 
-![Drozzy11](https://github.com/drozzy11/Readme-Generator)
+https://github.com/drozzy11/Readme-Generator/tree/main
