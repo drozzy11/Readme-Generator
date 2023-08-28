@@ -1,7 +1,7 @@
-#Professional README Generator
+# Professional README Generator
 
 
-##Description
+## Description
 You will utilize this node terminal application to assist you in creating a professional Readme for your GitHub projects.
 
 
